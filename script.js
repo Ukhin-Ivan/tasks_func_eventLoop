@@ -42,8 +42,6 @@
 
 			return [].concat(qsort(left), pivot, qsort(right));
 	}
-
-	alert(qsort([2, 27, 14, 52, 31, 96, 73, 47, 22, 6]))
 }
 
 //Задача 3.
